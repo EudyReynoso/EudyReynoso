@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Eudy Reynoso" />
+  Eudy Reynoso
 </h1>
 
 ## Hey! 👋
@@ -10,13 +10,13 @@ Hola, Soy Eudy Reynoso tengo 20 años.
 - 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, C#
+- ⚙️ React.
+- 👁️ CSS, Stylus
+- 💽 MySQL, SQL, SQL Server
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@EudyReynoso](https://twitter.com/eudy_reynoso) on Twitter
 - [@martonlederer](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
