@@ -1,5 +1,5 @@
 <h1 align="center">
-  Eudy Reynoso
+ <img src="https://github.com/EudyReynoso/EudyReynoso/blob/master/name.svg" alt="Eudy Reynoso" />
 </h1>
 
 ## Hey! 👋
