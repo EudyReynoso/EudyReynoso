@@ -2,14 +2,14 @@
  <img src="https://github.com/EudyReynoso/EudyReynoso/blob/master/name.svg" alt="Eudy Reynoso" />
 </h1>
 
-## Hey! 👋
+## Hola! 👋
 Hola, Soy Eudy Reynoso tengo 20 años.
 
 - 🧭 Estudiante de informatica en  [@Universidad UTECO](https://uteco.edu.do/)
 
 - 👥 FreeLancer
 
-## Skills
+## Habilidades
 - 👨‍💻 JavaScript, C#
 - ⚙️ React.
 - 👁️ CSS, Stylus
