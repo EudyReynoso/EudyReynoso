@@ -15,6 +15,6 @@ Hola, Soy Eudy Reynoso tengo 20 años.
 - 👁️ CSS, Stylus
 - 💽 MySQL, SQL, SQL Server
 
-## Contact
-- [@EudyReynoso](https://twitter.com/eudy_reynoso) on Twitter
-<img src="https://github.com/EudyReynoso/EudyReynoso/blob/master/name.svg" alt="Eudy Reynoso" /> [@eudyreynoso](https://www.instagram.com/eudy.reynoso/) on Instagram
+## Contactos
+- [@EudyReynoso](https://twitter.com/eudy_reynoso) en Twitter
+- [@eudyreynoso](https://www.instagram.com/eudy.reynoso/) en Instagram
