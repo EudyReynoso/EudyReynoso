@@ -5,9 +5,9 @@
 ## Hey! 👋
 Hola, Soy Eudy Reynoso tengo 20 años.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Estudiante de informatica en  [@Universidad UTECO](https://uteco.edu.do/)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 FreeLancer
 
 ## Skills
 - 👨‍💻 JavaScript, C#
@@ -16,7 +16,5 @@ Hola, Soy Eudy Reynoso tengo 20 años.
 - 💽 MySQL, SQL, SQL Server
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
 - [@EudyReynoso](https://twitter.com/eudy_reynoso) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@eudyreynoso](https://www.instagram.com/eudy.reynoso/) on Instagram
