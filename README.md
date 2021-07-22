@@ -18,3 +18,10 @@ Hola, Soy Eudy Reynoso tengo 20 años.
 ## Contactos
 - [@EudyReynoso](https://twitter.com/eudy_reynoso) en Twitter
 - [@eudyreynoso](https://www.instagram.com/eudy.reynoso/) en Instagram
+
+<!--
+```C#
+class Eudy {
+ string name = "Eudy";
+}
+``` -->
